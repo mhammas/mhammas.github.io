@@ -15,3 +15,45 @@ Research
 
 My research lies on the cusp of cybersafety, applied machine learning and social computing, where I aim at understanding, detecting, and combating online harms using a data-driven approach.
 My research process involves identifying pertinent issues within cyberspace and developing tools to mitigate the malicious behavior with the goal of offering policymakers guidelines to ensure user safety on social media platforms.
+
+My work has been published in top-tier venues in security and web measurement, including IEEE S&P, ICWSM, WebSci and has been reported by [Wired](https://www.wired.com/story/researchers-reddit-state-trolls/). My research has been supported by the [National Science Foundation (NSF)](https://www.nsf.gov/).
+
+Publications {#publications}
+======
+
+**TUBERAIDER: Attributing Coordinated Hate Attacks on YouTube Videos to their Source Communities**\
+*M. H. Saeed, K. Papadamou, J. Blackburn, E. D. Cristofaro and G. Stringhini*\
+**18th International AAAI Conference on Web and Social Media [(ICWSM 2024)](https://arxiv.org/abs/2308.05247v1), 2024**
+
+**TrollMagnifier: Detecting State-Sponsored Troll Accounts on Reddit**\
+*M. H. Saeed, S. Ali, J. Blackburn, E. D. Cristofaro, S. Zannettou and G. Stringhini*\
+**IEEE Symposium on Security and Privacy [(IEEE S&P 2022)](https://ieeexplore.ieee.org/document/9833706), 2022**
+
+**There are N Impostors Among Us: Understanding the Effect of State-Sponsored Troll Accounts on Reddit Discussions**\
+*M. H. Saeed, J. Blackburn, G. Stringhini*\
+**International Workshop on Cyber Social Threats [(CySoc 2022)](https://workshop-proceedings.icwsm.org/abstract.php?id=2022_70), 2022**
+
+**Understanding the Effect of Deplatforming on Social Networks**\
+*S. Ali, M. H. Saeed, E. Aldreabi, J. Blackburn, E. D. Cristofaro, S. Zannettou, and G. Stringhini*\
+**In Proceedings of the 13th ACM Web Science Conference 2021 [(WebSci ’21)](https://dl.acm.org/doi/10.1145/3447535.3462637), 2021**
+
+**The Browsers Strike Back: Countering Cryptojacking and Parasitic Miners on the Web**\
+*R. Tahir, S. Durrani, F. Ahmed, H. Saeed, F. Zaffar and S. Ilyas*\
+**IEEE Conference on Computer Communications 2019 [(INFOCOM 2019)](https://ieeexplore.ieee.org/document/8737360), 2019**
+
+**Bringing the Kid back into YouTube Kids: Detecting Inappropriate Content on Video Streaming Platforms**\
+*R. Tahir, F. Ahmed, H. Saeed, S. Ali, F. Zaffar and C. Wilson*\
+**IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining [(ASONAM 2019)](https://ieeexplore.ieee.org/document/9073060), 2019**
+
+
+Service
+======
+**Reviewer:** CSCW (2024), Journal of Information Technology & Politics (2024), Crime Science Journal (2024), EPJ Data Science (2024)
+
+Teaching
+======
+
+Courses TA'ed at Boston University:
+
+<span style="color: grey;">Spring 2021 EC 327</span> Software Engineering\
+<span style="color: grey;">Fall 2020 EC 327</span> Software Engineering
