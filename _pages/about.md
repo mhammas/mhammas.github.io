@@ -50,6 +50,8 @@ Service
 ======
 **Reviewer:** CSCW (2024), Journal of Information Technology & Politics (2024), Crime Science Journal (2024), EPJ Data Science (2024)
 
+**Program Committee Service:** EuroS&P Workshop on Attackers and Cyber-Crime Operations (2024), USENIX AEC (2024)
+
 Teaching
 ======
 
