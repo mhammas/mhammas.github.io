@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD Student at Boston University Electrical and Computer Engineering Department. I am also a core member of the [Security Lab (SeclaBU)](https://seclab.bu.edu/) and collaborated with [International Data-driven Research for Advanced Modeling and Analysis Lab (iDrama Lab)](https://idrama.science/) in the past.
+I am a Postdoctoral Associate at George Washington University where I work with [The Institute for Trustworthy AI in Law & Society (TRAILS)](https://trails.gwu.edu/) and [Graph Lab](https://www2.seas.gwu.edu/~howie/index.html).
+
+
+I obtained my PhD in Electrical and Computer Engineering from Boston University where I was a core member of the [Security Lab (SeclaBU)](https://seclab.bu.edu/) and collaborated with the [International Data-driven Research for Advanced Modeling and Analysis Lab (iDrama Lab)](https://idrama.science/).
 
 Research
 ======
@@ -20,6 +23,14 @@ My work has been published in top-tier venues in security and web measurement, i
 
 Publications {#publications}
 ======
+
+**Enabling Contextual Soft Moderation on Social Media through Contrastive Textual Deviation**\
+*P. Paudel, M. H. Saeed, R. Auger, C. Wells and G. Stringhini*\
+**33rd Usenix Security Symposium [(USENIX 2024)](https://www.usenix.org/conference/usenixsecurity24/presentation/paudel-enabling), 2024**
+
+**Unraveling the Web of Disinformation: Exploring the Larger Context of State-Sponsored Influence Campaigns on Twitter**\
+*M. H. Saeed, S. Ali, P. Paudel, J. Blackburn and G. Stringhini*\
+**International Symposium on Research in Attacks, Intrusions and Defenses [(RAID 2024)](https://arxiv.org/abs/2407.18098), 2024**
 
 **TUBERAIDER: Attributing Coordinated Hate Attacks on YouTube Videos to their Source Communities**\
 *M. H. Saeed, K. Papadamou, J. Blackburn, E. D. Cristofaro and G. Stringhini*\
