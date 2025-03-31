@@ -8,18 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Associate at George Washington University where I work with [The Institute for Trustworthy AI in Law & Society (TRAILS)](https://trails.gwu.edu/) and [Graph Lab](https://www2.seas.gwu.edu/~howie/index.html).
-
-
-I obtained my PhD in Electrical and Computer Engineering from Boston University where I was a core member of the [Security Lab (SeclaBU)](https://seclab.bu.edu/) and collaborated with the [International Data-driven Research for Advanced Modeling and Analysis Lab (iDrama Lab)](https://idrama.science/).
+Postdoctoral Associate @ George Washington University 
 
 Research
 ======
 
-My research lies on the cusp of cybersafety, applied machine learning and social computing, where I aim at understanding, detecting, and combating online harms using a data-driven approach.
-My research process involves identifying pertinent issues within cyberspace and developing tools to mitigate the malicious behavior with the goal of offering policymakers guidelines to ensure user safety on social media platforms.
-
-My work has been published in top-tier venues in security and web measurement, including IEEE S&P, ICWSM, WebSci and has been reported by [Wired](https://www.wired.com/story/researchers-reddit-state-trolls/). My research has been supported by the [National Science Foundation (NSF)](https://www.nsf.gov/).
+I develop and research AI/ML based solutions and network science techniques towards real world datasets (such as finding malicious accounts in a network).
 
 Publications {#publications}
 ======
@@ -56,12 +50,16 @@ Publications {#publications}
 *R. Tahir, F. Ahmed, H. Saeed, S. Ali, F. Zaffar and C. Wilson*\
 **IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining [(ASONAM 2019)](https://ieeexplore.ieee.org/document/9073060), 2019**
 
+Media Coverage
+======
+[Wired](https://www.wired.com/story/researchers-reddit-state-trolls/)
+
 
 Service
 ======
-**Reviewer:** CSCW (2024), Journal of Information Technology & Politics (2024), Crime Science Journal (2024), EPJ Data Science (2024)
+**Reviewer:** CSCW (2024), Journal of Information Technology & Politics (2024), Crime Science Journal (2024), EPJ Data Science (2024), TKDE (2025), ICWSM (2025)
 
-**Program Committee Service:** EuroS&P Workshop on Attackers and Cyber-Crime Operations (2024), USENIX AEC (2024)
+**Program Committee Service:** EuroS&P Workshop on Attackers and Cyber-Crime Operations (2024, 2025), USENIX AEC (2024, 2025)
 
 Teaching
 ======
