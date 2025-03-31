@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
+
 Postdoctoral Associate @ George Washington University 
 
 Research
@@ -49,11 +52,6 @@ Publications {#publications}
 **Bringing the Kid back into YouTube Kids: Detecting Inappropriate Content on Video Streaming Platforms**\
 *R. Tahir, F. Ahmed, H. Saeed, S. Ali, F. Zaffar and C. Wilson*\
 **IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining [(ASONAM 2019)](https://ieeexplore.ieee.org/document/9073060), 2019**
-
-Media Coverage
-======
-[Wired](https://www.wired.com/story/researchers-reddit-state-trolls/)
-
 
 Service
 ======
