@@ -1,0 +1,389 @@
+/* ==============================
+   Modern Warm Theme Overrides
+   AcademicPages / Minimal Mistakes
+   Palette 3: Neutral Minimalist with Warm Orange Accent
+   ============================== */
+
+/* Base */
+html, body {
+  background-color: #f9fafb; /* Light Gray */
+  color: #202020; /* Near Black */
+  font-size: 15px;
+  line-height: 1.7;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+    'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Ensure text is dark in content areas */
+.page__content,
+.page__content p,
+.page__content li,
+.page__content span,
+.page__content td,
+.page__content th,
+.page__content figcaption {
+  color: #202020 !important;
+}
+
+/* Headings */
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  color: #14213d !important; /* Oxford Blue */
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+  line-height: 1.25;
+}
+
+.page__content h1 { font-size: 2.5rem; }
+.page__content h2 { font-size: 2rem; }
+.page__content h3 { font-size: 1.5rem; }
+.page__content h4 { font-size: 1.25rem; }
+.page__content h5 { font-size: 1.1rem; }
+.page__content h6 { font-size: 1rem; }
+
+/* Links */
+.page__content a {
+  color: #ef6437;  /* Tomato Red */
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: inset 0 -2px 0 transparent;
+  border-radius: 2px;
+  outline-offset: 2px;
+}
+
+.page__content a:hover,
+.page__content a:focus {
+  color: #d94a0a;  /* Dark Tomato */
+  box-shadow: inset 0 -2px 0 #d94a0a;
+  outline: none;
+}
+
+/* Focus style for accessibility */
+.page__content a:focus-visible {
+  outline: 2px solid #ef6437;
+  outline-offset: 3px;
+}
+
+/* Containers & cards */
+.page,
+.page__content {
+  background: #fcfcfc; /* Off White */
+  border-radius: 10px;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.03);
+  padding: 2.5rem 2.5rem 3rem;
+}
+
+/* Reduce vertical spacing from header to main content */
+.page {
+  margin-top: 0.75rem; /* decreased from default, adjust to your liking */
+}
+
+/* Modern warm gradient header */
+.masthead,
+.site-header {
+  background: linear-gradient(90deg, #14213d, #f9d4c5) !important; /* Oxford Blue to Pale Salmon */
+  color: #fff !important;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  padding: 1rem 2rem; /* can be adjusted if needed */
+}
+
+/* Remove internal background on navigation wrappers */
+.masthead__inner-wrap,
+.site-nav,
+.greedy-nav {
+  background: transparent !important;
+}
+
+.masthead a,
+.site-header a,
+.site-nav a,
+.greedy-nav a {
+  color: #fff !important;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.masthead a:hover,
+.site-header a:hover,
+.site-nav a:hover,
+.greedy-nav a:hover {
+  color: #fff7f1 !important;
+  text-decoration: underline;
+}
+
+/* Footer */
+.page__footer,
+.site-footer {
+  background: #1e1e2f; /* Dark Charcoal */
+  color: #9ca4b4; /* Cool Gray */
+  text-align: center;
+  padding: 1.25em 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.page__footer a,
+.site-footer a {
+  color: #9ca4b4;
+  transition: color 0.3s ease;
+}
+
+.page__footer a:hover,
+.site-footer a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+/* Buttons */
+.button, button, input[type="submit"] {
+  background-color: #ef6437; /* Tomato Red */
+  color: white;
+  padding: 0.65em 1.3em;
+  border: none;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 1rem;
+  font-family: 'Inter', sans-serif;
+  cursor: pointer;
+  transition: background-color 0.3s ease, box-shadow 0.25s ease, transform 0.15s ease;
+  box-shadow: 0 3px 8px rgba(239, 100, 55, 0.3);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button:hover,
+button:hover,
+input[type="submit"]:hover {
+  background-color: #d94a0a; /* Dark Tomato */
+  box-shadow: 0 6px 20px rgba(217, 74, 10, 0.45);
+  transform: translateY(-2px);
+}
+
+.button:focus-visible,
+button:focus-visible,
+input[type="submit"]:focus-visible {
+  outline: 3px solid #f9d4c5; /* Pale Salmon */
+  outline-offset: 3px;
+}
+
+/* Tables */
+.page__content table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 0.75rem;
+  margin: 2rem 0;
+  font-size: 0.95rem;
+}
+
+.page__content th,
+.page__content td {
+  background-color: #fff;
+  padding: 0.85rem 1rem;
+  text-align: left;
+  vertical-align: middle;
+  border-bottom: 2px solid #f1f1f1;
+  border-right: 1px solid #e5e7eb;
+  transition: background-color 0.25s ease;
+}
+
+.page__content th {
+  font-weight: 600;
+  color: #4a5568;
+  border-bottom: 3px solid #f9d4c5;
+  border-right: 1px solid #f9d4c5;
+  background: #f9d4c5; /* Pale Salmon */
+}
+
+.page__content tr:hover td {
+  background-color: #fff5eb;
+}
+
+/* Code blocks */
+.page__content pre,
+.page__content code {
+  background: #fcfcfc;  /* Off White */
+  border-radius: 8px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    Liberation Mono, Courier New, monospace;
+  color: #a33a00; /* Deep dark burnt orange */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.4;
+}
+
+/* Inline code */
+.page__content code {
+  padding: 0.2em 0.5em;
+  font-size: 0.925em;
+  color: #cc5800; /* Medium burnt orange */
+  background-color: #fdebd3;
+  border: 1px solid #fcd9b3;
+  border-radius: 6px;
+}
+
+/* Block code */
+.page__content pre {
+  padding: 1.25rem 1.5rem;
+  overflow-x: auto;
+  font-size: 0.925rem;
+  box-shadow: 0 4px 8px rgba(239,100,55,0.1);
+  border: none;
+}
+
+/* Section divider */
+.section-divider {
+  border-top: 2px solid #f8e9e0; /* subtle pale salmon tone */
+  margin: 3.5rem 0 3rem;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .page,
+  .page__content {
+    padding: 1.5rem 1.5rem 2rem;
+  }
+
+  .page__content h1 {
+    font-size: 2rem;
+  }
+}
+
+/* Remove margin-top on page title to reduce gap below navbar */
+.page__title {
+  margin-top: 0;
+}
+
+.page__content > h1 {
+  font-size: 24px;
+}
+
+/* Remove top margin on first h1 inside content */
+.page__content > h1:first-child {
+  margin-top: 0;
+}
+
+.page__content p,
+.page__content ul,
+.page__content ol {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.page__content ul,
+.page__content ol {
+  padding-left: 1.25rem;
+}
+
+.page__content blockquote {
+  margin: 1.5em 0;
+  padding-left: 1rem;
+  border-left: 4px solid #f9d4c5;
+  color: #555555;
+  font-style: italic;
+  background-color: #fff7f0;
+  border-radius: 6px;
+}
+
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+.page__content a:focus-visible {
+  outline: 3px solid #ef6437;
+  outline-offset: 3px;
+  box-shadow: none;
+}
+
+.page__content td {
+  padding-bottom: 1rem;
+}
+
+.button, button, input[type="submit"] {
+  letter-spacing: 0.02em;
+  /* existing styles */
+}
+
+.button:active,
+button:active,
+input[type="submit"]:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(217, 74, 10, 0.25);
+}
+
+.page__content th {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 700;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #f9d4c5;
+  margin: 3rem 0;
+}
+
+.page__content pre {
+  font-size: 0.9rem;
+}
+
+@media (max-width: 480px) {
+  .page__content pre {
+    font-size: 0.85rem;
+  }
+}
+
+.page__content pre::-webkit-scrollbar {
+  height: 8px;
+}
+.page__content pre::-webkit-scrollbar-track {
+  background: #fcfcfc;
+}
+.page__content pre::-webkit-scrollbar-thumb {
+  background-color: #ef6437;
+  border-radius: 4px;
+}
+
+.page__content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  margin: 1.5rem 0;
+  display: block;
+}
+
+.page {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.page__sidebar {
+  flex: 0 0 auto;
+  width: fit-content;
+  max-width: 280px;
+  overflow-wrap: break-word; /* prevent overflow from long words */
+}
+
+.page__content {
+  flex: 1 1 auto;
+  min-width: 0; /* allows flex item to shrink properly */
+}

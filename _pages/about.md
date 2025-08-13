@@ -11,12 +11,14 @@ redirect_from:
 About Me
 ======
 
-Postdoctoral Associate @ George Washington University 
+I am a Postdoctoral Associate at George Washington University (GWU), working closely with the NSF Institute for Trustworthy AI in Law & Society (TRAILS)
 
 Research
 ======
 
-I develop and research AI/ML based solutions and network science techniques towards real world datasets (such as finding malicious accounts in a network).
+My research lies on the cusp of applied AI/machine learning, cybersafety and computational social science, where I aim at understanding, detecting, and combating online harms using a data-driven approach. My research process involves identifying pertinent issues within cyberspace and developing tools to mitigate the malicious behavior.
+
+My work has been published in top-tier venues in security and web measurement, including IEEE S&P, ICWSM and WebSci. My research has been supported by the National Science Foundation (NSF).
 
 Publications {#publications}
 ======
